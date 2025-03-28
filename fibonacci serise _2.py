@@ -1,0 +1,11 @@
+a = int(input('enter the number :'))
+b = 0
+c = 1
+d = 3
+print(b, c, end=' ')
+while d <= a:
+    e = b + c
+    b = c
+    c = e
+    print(e, end=' ')
+    d += 1

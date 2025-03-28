@@ -1,0 +1,3 @@
+This is my first line.
+This is my second line and it contains the word and.
+My third line is here and it also has the word and.
